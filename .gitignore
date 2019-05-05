@@ -1,2 +1,4 @@
 /cache/
 /config/development/
+*.pyc
+__pycache__
